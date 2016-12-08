@@ -122,7 +122,7 @@ void SMO()
 }
 int main()
 {
-    freopen("in.txt","r",stdin);
+    //freopen("in.txt","r",stdin);
     scanf("%d%d",&n,&m);
     for(int i=0;i<n;i++)
     {
